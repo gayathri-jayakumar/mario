@@ -1,0 +1,61 @@
+.heading 
+{
+    width: 100%;
+    font-size: 21px;
+    padding: 6px;
+}
+
+.heading h3
+{
+    font-size: 20px;
+    display: inline;
+}
+
+.heading button
+{
+    font-size: 20px;
+    float: right;
+    border: 2px solid white;
+}
+
+.big_image
+{
+    width: 100%;
+}
+
+#button_play, #status
+{
+    font-size: 18px;
+}
+
+.modal-dialog
+{
+    width: 100%;
+}
+
+.instructions_image
+{
+    width: 45%;
+    display: inline;
+}
+
+video
+{
+    background-image: url("game_console.png");
+    background-position: center;
+    background-size: cover;
+    padding: 30px;
+}
+
+
+h4
+{
+    background: white;
+    font-size: 19px;
+    margin: 10px
+}
+
+canvas
+{
+    margin-left: 20px;
+}
